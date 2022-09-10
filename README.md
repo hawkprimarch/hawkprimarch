@@ -7,6 +7,12 @@ Passionate about web development, much love coding
 - CV : [Hexlet](https://cv.hexlet.io/resumes/1120)
 - 📫 hawkprimarch@mail.ru
 
+<h3 align="left">My stats:</h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawkprimarch)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawkprimarch&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 hawkprimarch/hawkprimarch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
