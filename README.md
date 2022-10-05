@@ -16,7 +16,7 @@
 
 <h3 align="left">My stats:</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hawkprimarch&title_color=0074D9&text_color=E5C07B&icon_color=2ECC40&border_color=30363D&bg_color=161B22&show_icons=true&cache_seconds=1800&locale=en&border_radius=5&hide=,issues,&count_private=true&include_all_commit=true">
+https://github-readme-stats.vercel.app/api?username=hawkprimarch&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gotham
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawkprimarch&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
